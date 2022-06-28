@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $pash/active
+PATH=$PATH:/action 
